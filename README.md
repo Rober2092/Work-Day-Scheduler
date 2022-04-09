@@ -4,5 +4,5 @@ A simple calendar application that allows the user to save events for each hour 
 # Deployment
 https://rober2092.github.io/Work-Day-Scheduler/
 
- # screen shoot
-  <img src= "assets/images/C5506363-80BE-4C87-A70C-521BD08940C0.jpeg" />
+ # mobile screen shoot
+  <img src= "assets/images/IMG_5631.PNG" />
